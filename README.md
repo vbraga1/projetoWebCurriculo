@@ -1,1 +1,1 @@
-Repositório referente à um trabalho prático de Desenvolvimento Web.
+Repositório referente à um trabalho prático de Desenvolvimento Web
